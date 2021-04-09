@@ -1,0 +1,8 @@
+name: GDRpg
+version: 0.1
+main: me.gdrpg.Main
+commands:
+  create:
+  teste:
+depend:
+  - GDCore
